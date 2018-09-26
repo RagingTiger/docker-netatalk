@@ -1,3 +1,6 @@
+# About
+For use on RPi in the article [Adding an External Disk to a Raspberry Pi](https://medium.com/@aallan/adding-an-external-disk-to-a-raspberry-pi-and-sharing-it-over-the-network-5b321efce86a)
+
 # Netatalk in a Docker container
 
 An container serving [Apple Filing Protocol](https://en.wikipedia.org/wiki/Apple_Filing_Protocol) file sharing, Tracker (search/spotlight integration), and mDNS server for service discovery.
